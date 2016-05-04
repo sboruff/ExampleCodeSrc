@@ -23,7 +23,7 @@ using System.Collections.Specialized;
 // Ensure the .ascx has the following; otherwise Tabs won't display properly.
 // <link href="/_layouts/SDB/MasterPages/Styles/SDBBETabs.css" rel="stylesheet" type="text/css" />
 
-namespace SDBBE.Controls
+namespace SDBBE.Control
 {
     public partial class InsertContractFull02 : UserControl, IPostBackEventHandler
     {
